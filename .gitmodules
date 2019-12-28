@@ -1,30 +1,39 @@
 [submodule "mobileboost-vuejs"]
-	path = mobileboost-vuejs
+	path = dead/mobileboost-vuejs
 	url = https://github.com/jeremigendron/mobileboost-vuejs
 [submodule "time_formatter"]
-	path = time_formatter
+	path = dead/time_formatter
 	url = https://github.com/jeremigendron/time_formatter
 [submodule "throwaway"]
-	path = throwaway
+	path = dead/throwaway
 	url = https://github.com/jeremigendron/throwaway
 [submodule "site"]
-	path = site
+	path = dead/site
 	url = https://github.com/jeremigendron/site
 [submodule "bip38"]
-	path = bip38
+	path = dead/bip38
 	url = https://github.com/jeremigendron/bip38
 [submodule "xor"]
-	path = xor
+	path = dead/xor
 	url = https://github.com/jeremigendron/xor
 [submodule "bitcoin_flutter"]
-	path = bitcoin_flutter
+	path = dead/bitcoin_flutter
 	url = https://github.com/jeremigendron/bitcoin_flutter
 [submodule "inventory-manager"]
-	path = inventory-manager
+	path = dead/inventory-manager
 	url = https://github.com/jeremigendron/inventory-manager
 [submodule "hash-api-simple"]
-	path = hash-api-simple
+	path = dead/hash-api-simple
 	url = https://github.com/jeremigendron/hash-api-simple
 [submodule "canada-post"]
-	path = canada-post
+	path = dead/canada-post
 	url = https://github.com/jeremigendron/canada-post
+[submodule "active/Uberman_Sleep"]
+	path = active/Uberman_Sleep
+	url = https://github.com/jeremigendron/Uberman_Sleep
+[submodule "dead/team_clean"]
+	path = dead/team_clean
+	url = https://github.com/jeremigendron/team_clean
+[submodule "active/cleaning_service"]
+	path = active/cleaning_service
+	url = https://github.com/jeremigendron/cleaning_service
