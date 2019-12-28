@@ -1,0 +1,27 @@
+[submodule "mobileboost-vuejs"]
+	path = mobileboost-vuejs
+	url = https://github.com/jeremigendron//mobileboost-vuejs
+[submodule "time_formatter"]
+	path = time_formatter
+	url = https://github.com/jeremigendron/time_formatter
+[submodule "throwaway"]
+	path = throwaway
+	url = https://github.com/jeremigendron/throwaway
+[submodule "site"]
+	path = site
+	url = https://github.com/jeremigendron/site
+[submodule "bip38"]
+	path = bip38
+	url = https://github.com/jeremigendron/bip38
+[submodule "xor"]
+	path = xor
+	url = https://github.com/jeremigendron/xor
+[submodule "bitcoin_flutter"]
+	path = bitcoin_flutter
+	url = https://github.com/jeremigendron/bitcoin_flutter
+[submodule "inventory-manager"]
+	path = inventory-manager
+	url = https://github.com/jeremigendron/inventory-manager
+[submodule "hash-api-simple"]
+	path = hash-api-simple
+	url = https://github.com/jeremigendron/hash-api-simple
