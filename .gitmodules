@@ -1,6 +1,6 @@
 [submodule "mobileboost-vuejs"]
 	path = mobileboost-vuejs
-	url = https://github.com/jeremigendron//mobileboost-vuejs
+	url = https://github.com/jeremigendron/mobileboost-vuejs
 [submodule "time_formatter"]
 	path = time_formatter
 	url = https://github.com/jeremigendron/time_formatter
