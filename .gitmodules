@@ -25,3 +25,6 @@
 [submodule "hash-api-simple"]
 	path = hash-api-simple
 	url = https://github.com/jeremigendron/hash-api-simple
+[submodule "canada-post"]
+	path = canada-post
+	url = https://github.com/jeremigendron/canada-post
